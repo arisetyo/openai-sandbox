@@ -1,0 +1,3 @@
+Roger = 99
+Michael = 97
+Veronica = 96
